@@ -1,1 +1,3 @@
 # swestat
+
+How to do ...
